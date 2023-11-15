@@ -1,0 +1,88 @@
+*
+{
+    font-family: "Futura", "Trebuchet MS"," Arial, sans-serif"; 
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    align-content: center;
+}
+.pic img{
+    padding-left: 50px;
+
+}
+.navbar ul li a{
+    color: white;
+    padding-right: 45px;
+}
+.navbar ul li a:hover{
+    color: rgb(131, 131, 128);
+}
+.heading{
+    letter-spacing: 6px;
+    font-size: 50px;
+} h1{
+    font-size: 50px;
+    font-stretch: expanded;
+}
+footer{
+    height: 65px;
+    display: flex;
+}
+.left{
+    padding-top: 10px;
+    padding-left: 50px;
+}
+.right{
+    padding-top: 10px;
+    padding-left: 500px;
+}
+.carousel-item img{
+    width: 100%;
+    height: 500px;
+}
+.form{
+    display: flex;
+}
+
+.text{
+    color: rgb(129, 129, 129);
+}
+.inner a{
+    text-decoration: none;
+    color: black;
+}
+.inner a:hover{
+    color: rgb(131, 131, 128);
+}
+.container-fluid{
+    background-color: rgb(235, 232, 232);
+}
+.main{
+    display: flex;
+}
+.col-4{
+    background-color: rgb(235, 232, 232);
+}
+.pagination a{
+    color: black;
+    border: none;
+    
+}
+.head h1{
+    font-size: 60px;
+}
+.image{
+    padding: 80px;
+}
+.body h6{
+    font-weight: 700;
+    font-size: 17px;
+}
+.inner h1{
+    font-weight: 400;
+    font-size: 60px;
+}
